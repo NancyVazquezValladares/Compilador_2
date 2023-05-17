@@ -1,0 +1,82 @@
+E:\Zarazua\Compilador\Compilador\bin\Debug\Compilador.exe.config
+E:\Zarazua\Compilador\Compilador\bin\Debug\Compilador.exe
+E:\Zarazua\Compilador\Compilador\bin\Debug\Compilador.pdb
+E:\Zarazua\Compilador\Compilador\bin\Debug\Compilador.xml
+E:\Zarazua\Compilador\Compilador\obj\Debug\Compilador.Form1.resources
+E:\Zarazua\Compilador\Compilador\obj\Debug\Compilador.Resources.resources
+E:\Zarazua\Compilador\Compilador\obj\Debug\Compilador.vbproj.GenerateResource.Cache
+E:\Zarazua\Compilador\Compilador\obj\Debug\Compilador.exe
+E:\Zarazua\Compilador\Compilador\obj\Debug\Compilador.xml
+E:\Zarazua\Compilador\Compilador\obj\Debug\Compilador.pdb
+C:\Users\alber\OneDrive\Escritorio\FIME\Visual Basic\Compilador\Compilador\obj\Debug\Compilador.vbprojAssemblyReference.cache
+C:\Users\alber\OneDrive\Escritorio\FIME\Visual Basic\Compilador\Compilador\obj\Debug\Compilador.Form1.resources
+C:\Users\alber\OneDrive\Escritorio\FIME\Visual Basic\Compilador\Compilador\obj\Debug\Compilador.Resources.resources
+C:\Users\alber\OneDrive\Escritorio\FIME\Visual Basic\Compilador\Compilador\obj\Debug\Compilador.vbproj.GenerateResource.cache
+C:\Users\alber\OneDrive\Escritorio\FIME\Visual Basic\Compilador\Compilador\obj\Debug\Compilador.vbproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Escritorio\FIME\Visual Basic\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\alber\OneDrive\Escritorio\FIME\Visual Basic\Compilador\Compilador\obj\Debug\Compilador.xml
+C:\Users\alber\OneDrive\Escritorio\FIME\Visual Basic\Compilador\Compilador\obj\Debug\Compilador.pdb
+C:\Users\alber\OneDrive\Escritorio\FIME\Visual Basic\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\alber\OneDrive\Escritorio\FIME\Visual Basic\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\alber\OneDrive\Escritorio\FIME\Visual Basic\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\alber\OneDrive\Escritorio\FIME\Visual Basic\Compilador\Compilador\bin\Debug\Compilador.xml
+C:\Users\zaid_\Downloads\Compilador\Compilador\obj\Debug\Compilador.vbproj.AssemblyReference.cache
+C:\Users\zaid_\Downloads\Compilador\Compilador\obj\Debug\Compilador.vbproj.SuggestedBindingRedirects.cache
+C:\Users\zaid_\Downloads\Compilador\Compilador\obj\Debug\Compilador.Form1.resources
+C:\Users\zaid_\Downloads\Compilador\Compilador\obj\Debug\Compilador.Resources.resources
+C:\Users\zaid_\Downloads\Compilador\Compilador\obj\Debug\Compilador.vbproj.GenerateResource.cache
+C:\Users\zaid_\Downloads\Compilador\Compilador\obj\Debug\Compilador.vbproj.CoreCompileInputs.cache
+C:\Users\zaid_\Downloads\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\zaid_\Downloads\Compilador\Compilador\obj\Debug\Compilador.xml
+C:\Users\zaid_\Downloads\Compilador\Compilador\obj\Debug\Compilador.pdb
+C:\Users\zaid_\Downloads\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\zaid_\Downloads\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\zaid_\Downloads\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\zaid_\Downloads\Compilador\Compilador\bin\Debug\Compilador.xml
+C:\Users\zaid_\Desktop\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\zaid_\Desktop\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\zaid_\Desktop\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\zaid_\Desktop\Compilador\Compilador\bin\Debug\Compilador.xml
+C:\Users\zaid_\Desktop\Compilador\Compilador\obj\Debug\Compilador.vbproj.AssemblyReference.cache
+C:\Users\zaid_\Desktop\Compilador\Compilador\obj\Debug\Compilador.vbproj.SuggestedBindingRedirects.cache
+C:\Users\zaid_\Desktop\Compilador\Compilador\obj\Debug\Compilador.Form1.resources
+C:\Users\zaid_\Desktop\Compilador\Compilador\obj\Debug\Compilador.Resources.resources
+C:\Users\zaid_\Desktop\Compilador\Compilador\obj\Debug\Compilador.vbproj.GenerateResource.cache
+C:\Users\zaid_\Desktop\Compilador\Compilador\obj\Debug\Compilador.vbproj.CoreCompileInputs.cache
+C:\Users\zaid_\Desktop\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\zaid_\Desktop\Compilador\Compilador\obj\Debug\Compilador.xml
+C:\Users\zaid_\Desktop\Compilador\Compilador\obj\Debug\Compilador.pdb
+E:\Compilador\Compilador\bin\Debug\Compilador.exe.config
+E:\Compilador\Compilador\obj\Debug\Compilador.exe
+E:\Compilador\Compilador\obj\Debug\Compilador.xml
+E:\Compilador\Compilador\obj\Debug\Compilador.pdb
+E:\Compilador\Compilador\bin\Debug\Compilador.exe
+E:\Compilador\Compilador\bin\Debug\Compilador.pdb
+E:\Compilador\Compilador\bin\Debug\Compilador.xml
+E:\Compilador\Compilador\obj\Debug\Compilador.Form1.resources
+E:\Compilador\Compilador\obj\Debug\Compilador.Resources.resources
+E:\Compilador\Compilador\obj\Debug\Compilador.vbproj.GenerateResource.Cache
+F:\Compilador\Compilador\bin\Debug\Compilador.exe.config
+F:\Compilador\Compilador\bin\Debug\Compilador.exe
+F:\Compilador\Compilador\bin\Debug\Compilador.pdb
+F:\Compilador\Compilador\bin\Debug\Compilador.xml
+F:\Compilador\Compilador\obj\Debug\Compilador.vbproj.AssemblyReference.cache
+F:\Compilador\Compilador\obj\Debug\Compilador.Form1.resources
+F:\Compilador\Compilador\obj\Debug\Compilador.Resources.resources
+F:\Compilador\Compilador\obj\Debug\Compilador.vbproj.GenerateResource.cache
+F:\Compilador\Compilador\obj\Debug\Compilador.vbproj.CoreCompileInputs.cache
+F:\Compilador\Compilador\obj\Debug\Compilador.exe
+F:\Compilador\Compilador\obj\Debug\Compilador.xml
+F:\Compilador\Compilador\obj\Debug\Compilador.pdb
+D:\Juegos\Compilador\Compilador\bin\Debug\Compilador.exe.config
+D:\Juegos\Compilador\Compilador\bin\Debug\Compilador.exe
+D:\Juegos\Compilador\Compilador\bin\Debug\Compilador.pdb
+D:\Juegos\Compilador\Compilador\bin\Debug\Compilador.xml
+D:\Juegos\Compilador\Compilador\obj\Debug\Compilador.vbprojAssemblyReference.cache
+D:\Juegos\Compilador\Compilador\obj\Debug\Compilador.Resources.resources
+D:\Juegos\Compilador\Compilador\obj\Debug\Compilador.vbproj.GenerateResource.cache
+D:\Juegos\Compilador\Compilador\obj\Debug\Compilador.vbproj.CoreCompileInputs.cache
+D:\Juegos\Compilador\Compilador\obj\Debug\Compilador.exe
+D:\Juegos\Compilador\Compilador\obj\Debug\Compilador.xml
+D:\Juegos\Compilador\Compilador\obj\Debug\Compilador.pdb
+D:\Juegos\Compilador\Compilador\obj\Debug\Compilador.Proyecto.resources

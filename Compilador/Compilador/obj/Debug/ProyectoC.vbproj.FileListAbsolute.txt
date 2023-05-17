@@ -1,0 +1,12 @@
+D:\Juegos\Compilador\Compilador\bin\Debug\Compilador.exe.config
+D:\Juegos\Compilador\Compilador\bin\Debug\Compilador.exe
+D:\Juegos\Compilador\Compilador\bin\Debug\Compilador.pdb
+D:\Juegos\Compilador\Compilador\bin\Debug\Compilador.xml
+D:\Juegos\Compilador\Compilador\obj\Debug\ProyectoC.vbprojAssemblyReference.cache
+D:\Juegos\Compilador\Compilador\obj\Debug\Compilador.Proyecto.resources
+D:\Juegos\Compilador\Compilador\obj\Debug\Compilador.Resources.resources
+D:\Juegos\Compilador\Compilador\obj\Debug\ProyectoC.vbproj.GenerateResource.cache
+D:\Juegos\Compilador\Compilador\obj\Debug\ProyectoC.vbproj.CoreCompileInputs.cache
+D:\Juegos\Compilador\Compilador\obj\Debug\Compilador.exe
+D:\Juegos\Compilador\Compilador\obj\Debug\Compilador.xml
+D:\Juegos\Compilador\Compilador\obj\Debug\Compilador.pdb

@@ -1,0 +1,11 @@
+Compilador
+<
+>
+<=
+>=
+==
+"salu2"
+9.9 + 6 == 1
+For
+else
+Facultad de ingenieria Mecanica y Electrica.
